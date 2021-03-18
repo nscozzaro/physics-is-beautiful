@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "@vermus/django-react-djeddit-client": "^1.0.48",
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "babel-core": "^6.26.3",
     "babel-loader": "^6.4.1",
     "babel-preset-env": "^1.7.0",
